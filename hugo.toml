@@ -1,0 +1,73 @@
+baseURL = "https://ignaciodelmonte.org/"
+title = "Ignacio Del Monte"
+theme = "PaperMod"
+enableRobotsTXT = true
+canonifyURLs = true
+defaultContentLanguage = "en"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[minify]
+  minifyOutput = true
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+
+[pagination]
+  pagerSize = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+  defaultTheme = "auto"
+  DateFormat = "02 Jan 2006"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  hideSummary = false
+  description = "Researcher in decentralized markets with applied leadership in fintech/DeFi."
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Industry"
+    url = "/industry/"
+    weight = 3
+
+[[menu.main]]
+  name = "News"
+  url = "/updates/"
+  weight = 4
+
+[params.assets]
+  customCSS = ["css/custom.css"]
+[params.profileMode]
+  enabled = false
+  title = "Decentralized economics: academic rigor, and applied Fintech insight."
+  subtitle = ""  # Dejalo vacío
+  imageUrl = "/images/profile_IADM.jpeg"
+  imageWidth = 260
+  imageHeight = 260
+  buttons = [
+    { name = "Research", url = "/research/" },
+    { name = "Industry", url = "/industry/" },
+    { name = "About", url = "/about/" }
+  ]
+
