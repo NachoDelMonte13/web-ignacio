@@ -1,53 +1,45 @@
 ---
 title: "Industry"
-description: "Applied fintech & blockchain solutions: crypto payments, stablecoin rails, and DeFi risk analytics."
+description: "Bridging academic insight with practical execution in crypto payments, stablecoin rails, and DeFi infrastructure."
 ---
 
-**Applied fintech & blockchain, from research to production.**  
-Crypto payment rails, merchant acceptance, stablecoin settlement, and DeFi risk analytics—delivered securely and pragmatically.
+## What I Do
 
----
+- **Crypto Payments & Processing** — merchant flows, wallet UX, BTC/ETH settlement, reconciliation.
+- **Stablecoin Solutions** — cross-border rails, FX optimization, treasury design.
+- **DeFi Risk Analytics** — AMM modeling, IL & fee tracking, regime-aware dashboards.
+- **Strategic Delivery** — vendor architecture, policy design, go-live playbooks.
 
-## Featured Projects
-
-### Crypto Payments for E-commerce (LATAM)
-
-Enabled one of the **first e-commerce implementations in Latin America** to accept **Bitcoin payments** end-to-end (pricing, invoicing, settlement).
-
-### Merchant Acceptance & Checkout
-
-Designed **crypto-enabled payment flows** (quote → pay → reconcile) with wallet UX, fee policy, and operational controls.
-
-### Stablecoin Rails for Cross-Border
-
-Developed **stablecoin-based settlement** to streamline cross-border flows, optimize FX exposure, and improve treasury visibility.
-
-### DeFi Risk Analytics (AMMs)
-
-Built dashboards for **impermanent loss & fees** with regime detection, stress testing, and LP performance metrics.
+<div style="margin-top: 1rem;">
+  <a href="/about/" class="btn">Get in touch</a>
+</div>
 
 ---
 
-## Services
+## Featured Work
 
-- **Payments & Crypto Processing** — merchant acceptance, checkout, custody/wallets, reconciliation.
-- **Stablecoin & Treasury** — on/off-ramps, liquidity policy, FX, audits & controls.
-- **DeFi Analytics** — IL/fees modeling, regime-aware metrics, stress scenarios, governance reporting.
-- **Architecture & Delivery** — solution design, vendor selection, KPIs, go-live playbooks.
+### 🛒 Crypto Payments for E-commerce (LATAM)
 
-> For collaborations or advisory: [Get in touch](/about/){.button}
+Led one of the **first successful Bitcoin payment integrations** in Latin American retail.
 
----
+### 🍷 Boutique Wine Tokenization (Mendoza, Argentina)
 
-## Recognition
+Developed a **decentralized business model** for a boutique winery, integrating **NFT-based traceability** and tokenized ownership.  
+Led the creation of a new wine brand with on-chain certification for production, vintage, and origin.
 
-- **Pioneering BTC merchant acceptance in LATAM** — first-wave e-commerce integration.
-- **ENFIELD Grant (AI in Distributed Systems)** — recognition for research-to-industry transfer.
-- **Invited talks & workshops** — crypto payments, DeFi risk, market microstructure.
+### 🌐 Stablecoin-Based Cross-Border Rails
 
----
+Built stablecoin rails for treasury operations, reducing foreign exchange exposure and friction in cross-border settlements.
 
-## References
+### 📊 DeFi Risk & LP Analytics
 
-Selected client and project references are available **upon request** due to NDAs.  
-[Request references](/about/){.button}
+Developed dashboards for **Impermanent Loss**, fee income, and LP strategy performance in AMMs, with **regime-switching models** and stress tests.
+
+<br>
+
+<div class="btn-row" style="margin-top:0.75rem;">
+  <a href="mailto:ignacio.monte@uah.es" class="btn" rel="noopener">Email</a>
+  <a href="https://www.linkedin.com/in/fitins/" target="_blank" rel="noopener" class="btn">LinkedIn</a>
+  <a href="https://orcid.org/0009-0001-5997-6230" target="_blank" rel="noopener" class="btn">ORCID</a>
+  <a href="https://scholar.google.com/citations?user=DNYeSgMAAAAJ&hl=en" target="_blank" rel="noopener" class="btn">Google Scholar</a>
+</div>
