@@ -4,6 +4,12 @@ description: "Publications, Grants & Fellowships."
 ---
 
 ## Publications
+### 2026
+
+**The Impact of Volatility Buffering in the Transition to Impermanent Loss Risk**  
+_Ignacio Ariel Del Monte_, Juan de Lucio, Miguel Ángel Sicilia — _Computational Economics_, 2026.  
+<a class="btn-publication" href="https://doi.org/10.1007/s10614-025-11297-1" target="_blank">Publisher</a>
+
 
 ### 2025
 
