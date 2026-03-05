@@ -2,8 +2,9 @@
 title: "All Updates"
 layout: "page"
 ---
-**Jan 2026** — Our paper *The Impact of Volatility Buffering in the Transition to Impermanent Loss Risk* was published in Computational Economics. https://link.springer.com/article/10.1007/s10614-025-11297-1
-
+**Jan 2026** — Our paper [The Impact of Volatility Buffering in the Transition to Impermanent Loss Risk](https://link.springer.com/article/10.1007/s10614-025-11297-1)
+ was published in Computational Economics. 
+ 
 **Dec 2026** — Awarded a Visiting Research Program through EUGLOH at the Faculty of Economics, University of Porto, to conduct research on understanding Impermanent Loss risk using high-frequency data. https://www.up.pt/fep/en/
 
 **Oct 2025** — Started my Visiting Research Program at TU Chemnitz as part of the ENFIELD Grant (EU Horizon Europe, Grant No. 101120657), collaborating with the [VSR Research Group](https://vsr.informatik.tu-chemnitz.de/).
